@@ -47,22 +47,22 @@ Here is a curated selection of my professional work, demonstrating my ability to
 *   **Impact:** Developed and maintained full-stack web applications, executing comprehensive technical SEO strategies that resulted in measurable gains in search ranking and organic traffic.
 *   **Stack:** HTML5, CSS3, JavaScript, Laravel, PHP, MySQL
 
-#### 🚖 [HurryUp Cabs](http://www.hurryupcabs.com) | `[Add Repo Link Here]`
+#### 🚖 [HurryUp Cabs](http://www.hurryupcabs.com) | ``
 > **Comprehensive Cab Booking Platform**
 *   **Impact:** Engineered a robust booking platform with real-time availability features, optimizing complex SQL queries for faster data retrieval.
 *   **Stack:** HTML5, CSS3, JavaScript, Bootstrap, PHP, Laravel, MySQL
 
-#### 🛒 [IT World Colaba Shop](http://www.itworldcolaba.shop) | `[Add Repo Link Here]`
+#### 🛒 [IT World Colaba Shop](http://www.itworldcolaba.shop) | ``
 > **E-Commerce Retail Application**
 *   **Impact:** Built a fully responsive e-commerce interface, implementing hardcoded SEO strategies that significantly boosted organic session volume and customer engagement.
 *   **Stack:** PHP, JavaScript, Bootstrap, MySQL, SEO Tools
 
-#### 📈 [DM Guys](http://www.dmguys.com) | `[Add Repo Link Here]`
+#### 📈 [DM Guys](http://www.dmguys.com) | ``
 > **Digital Marketing Agency Portal**
 *   **Impact:** Designed an agency site focused on slick UI/UX transitions, performance speed, and integrated lead generation tracking.
 *   **Stack:** Laravel, JavaScript, HTML5, CSS3, SEO Tools
 
-#### 🌐 [Cognos Digital](http://www.cognosdigital.com) | `[Add Repo Link Here]`
+#### 🌐 [Cognos Digital](http://www.cognosdigital.com) | ``
 > **High-Performance Business Website**
 *   **Impact:** Delivered end-to-end frontend and backend enhancements to score optimally on core web vitals and search engine indexes.
 *   **Stack:** Laravel, JavaScript, HTML5, CSS3, SEO Tools
